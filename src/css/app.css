@@ -1,0 +1,18 @@
+/* app global css */
+.custom-table{
+    width: 96%;
+    margin: 10px;
+    align-items: center;
+}
+
+.custom-table tr th{
+    border: 4px solid #090eec;
+    background-color: #090eec;
+    color: white;
+    padding:5px
+}
+
+.custom-table tr td{
+    border: 4px solid #090eec;
+    padding:5px;
+}
